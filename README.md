@@ -70,8 +70,3 @@ I’m passionate about backend development, APIs, and continuously improving my 
 
 ---
 
-## 📊 My GitHub Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahmaShelbayeh&show_icons=true&theme=tokyonight" />
-</p>
