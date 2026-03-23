@@ -66,17 +66,6 @@ I build scalable web applications and enjoy working across the full stack — fr
 
 ## 💼 Experience
 
-### 🔹 Full Stack Developer – Step by Step
-
-📅 Dec 2024 – May 2025
-
-* ASP.NET Core MVC, C#, REST APIs
-* React.js + Bootstrap UI
-* SQL Server & PL/SQL
-* Testing, debugging, and teamwork
-
----
-
 ### 🔹 Full Stack Developer Intern – DOT Jordan
 
 📅 Dec 2025 – Mar 2026
@@ -85,6 +74,15 @@ I build scalable web applications and enjoy working across the full stack — fr
 * JWT Authentication
 * REST APIs & Axios
 * Next.js applications
+
+---
+
+### 🔹 CRM Developer Intern – UBA
+
+📅 Feb – Mar 2026
+
+* Sage CRM customization
+* Data management & workflows
 
 ---
 
@@ -98,12 +96,14 @@ I build scalable web applications and enjoy working across the full stack — fr
 
 ---
 
-### 🔹 CRM Developer Intern – UBA
+### 🔹 Full Stack Developer – Step by Step
 
-📅 Feb – Mar 2026
+📅 Dec 2024 – May 2025
 
-* Sage CRM customization
-* Data management & workflows
+* ASP.NET Core MVC, C#, REST APIs
+* React.js + Bootstrap UI
+* SQL Server & PL/SQL
+* Testing, debugging, and teamwork
 
 ---
 
