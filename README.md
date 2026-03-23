@@ -1,8 +1,9 @@
 <h1 align="center">Hi There! 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fbc2eb&height=200&section=header&text=Rahma%20Shelbayeh&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20Developer%20(.NET%20%26%20Node.js)&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Rahma%20Shelbayeh&fontSize=40&fontColor=ffffff&color=ff9a9e,fbc2eb&desc=Full%20Stack%20Developer%20(.NET%20and%20Node.js)&descAlignY=65" />
 </p>
+
 
 ---
 
